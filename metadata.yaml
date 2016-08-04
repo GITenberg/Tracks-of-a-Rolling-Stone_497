@@ -1,0 +1,26 @@
+_repo: Tracks-of-a-Rolling-Stone_497
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coke, Henry J. (Henry John)
+    alias: Coke, Henry John
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '265'
+    url: http://www.gutenberg.org/2009/agents/265
+description: ''
+gutenberg_issued: '1996-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcc 'PR'
+- !lcsh 'Coke, Henry J. (Henry John), 1827-1916'
+- GITenberg
+title: Tracks of a Rolling Stone
+url: http://www.gutenberg.org/ebooks/497
